@@ -1,11 +1,11 @@
 #Test for calling data and store data
 #Calling an API method from test2.rb
-#Test 1
+#Test 2
 name = "\"Ren\""
 income = 5000.00
 tax = 500.00
 net_montly = 4500.00
-headline = "Monthly Payment Slip for Fave"
+headline = "Monthly Payment Slip for AkiraYuu"
 puts headline.upcase()
 puts ("Monthly Payment Slip for: " + name ).upcase()
 puts ("Gross Monthly Income: " + "\$" + income.to_s).downcase()
